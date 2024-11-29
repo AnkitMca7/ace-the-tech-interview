@@ -22,7 +22,16 @@ export const PracticeQuestions = () => {
         title: "Reverse Integer",
         url: "https://leetcode.com/problems/reverse-integer/",
       },
-      
+      {
+        id:4,
+        title:"3-Sum",
+        url:"https://leetcode.com/problems/3sum/",
+      },
+      {
+        id:5,
+        title:"Length of last word ",
+        url:"https://leetcode.com/problems/length-of-last-word/",
+      }
       // Add more questions as needed
     ];
     setQuestions(popularQuestions);
