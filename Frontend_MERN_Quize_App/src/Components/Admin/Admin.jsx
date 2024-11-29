@@ -46,10 +46,10 @@ export const Admin = () => {
           </div>
           <div className=" ml-32 leading-normal">
             <p className="text-lg text-black-100 leading-loose">
-              A Full Stack Web Developer 🚀 from Nagpur, India, currently 💻 I'm
-              doing my Full Stack Development from Masai School. I am passionate
+              A Full Stack Web Developer 🚀 from Delhi, India, currently 💻 I'm
+              doing my MCA from Jamia Millia Islamia. I am passionate
               about technology and want to learn & explore new technologies. I
-              love travelling and doing farming in free time.
+              love travelling and listening song in my free time.
             </p>
           </div>
           <div className="flex mt-12 space-x-4 ml-32 ">
@@ -125,7 +125,7 @@ export const Admin = () => {
         </div>
         <div className="w-5/12 p-16 ml-24">
           <img
-            src="./sudhir.jpg"
+            src="./23MCA007.jpg"
             alt="admin"
             className="h-[300px] w-[300px] rounded-full "
           />
